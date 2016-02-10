@@ -1,0 +1,16 @@
+Travaux Pratiques - Scéance 3
+Marc-André Pelletier
+
+1. Expliquez les différences entre les "liens HTML" suivants:
+
+   * <a href="http://www.uqo.ca/test/page.html#tips">...</a>
+   Pointe à un lien dans une page
+
+   * <a href="page.html#tips">...</a>
+   Pointe à un lien dans une page. Chemin relatif
+
+   * <a href="#tips">...</a>
+	Pointe vers un lien
+
+
+2 à 8. Les fonctions Javascript sont dans le fichier main.js
